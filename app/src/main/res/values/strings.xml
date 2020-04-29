@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Camal</string>
+    <string name="title_activity_medicalcategories">medicalcategories</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="neurologists">Neurologists</string>
+
+    <!-- Strings used for Recycler view for Doctors categories -->
+
+    <string-array name="doctors_categories">
+        <item>Neurologists</item>
+        <item>Rheumatologists</item>
+        <item>Allergists</item>
+        <item>Psychiatrists</item>
+        <item>Nephrologists</item>
+        <item>Pulmonologists</item>
+        <item>Surgeons</item>
+        <item>Ophthalmologists</item>
+        <item>Oncologists</item>
+        <item>Urologists</item>
+        <item>Otolaryngologists</item>
+        <item>Anesthesiologists</item>
+        <item>Dermatologists</item>
+        <item>Gastroenterologists</item>
+        <item>Cardiologists</item>
+        <item>Orthopedists</item>
+        <item>Dentists</item>
+    </string-array>
+
+    <!-- Strings used for Recycler view for Doctors categories  ENDS HERE -->
+
+
+    <!-- Strings used for Recycler view for Hospitals categories -->
+
+    <string-array name="allCityHospitals">
+        <item>2. krankenhouse</item>
+        <item>1. krankenhouse</item>
+
+        <item>1. krankenhouse</item>
+        <item>1. krankenhouse</item>
+        <item>1. krankenhouse</item>
+        <item>1. krankenhouse</item>
+        <item>1. krankenhouse</item>
+        <item>1. krankenhouse</item>
+        <item>1. krankenhouse</item>
+        <item>1. krankenhouse</item>
+        <item>1. krankenhouse</item>
+        <item>1. krankenhouse</item>
+        <item>1. krankenhouse</item>
+        <item>1. krankenhouse</item>
+
+        <item>3. krankenhouse</item>
+        <item>4. krankenhouse</item>
+
+    </string-array>
+
+    <!-- Strings used for Recycler view for Hospitals categories  ENDS HERE -->
+
+
+    <!-- Strings used for Recycler view for Pharmacy categories -->
+
+    <string-array name="allCityPharmacies">
+        <item>1. Pharmacy</item>
+        <item>2. Pharmacy</item>
+        <item>3. Pharmacy</item>
+        <item>4. Pharmacy</item>
+
+    </string-array>
+
+    <!-- Strings used for Recycler view for Pharmacy categories  ENDS HERE -->
+
+</resources>
