@@ -11,6 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".NeurologistsRecyclerview_main"></activity>
         <activity android:name=".emergency_main" />
         <activity android:name=".Pharmacy_main" />
         <activity android:name=".hospitals_main" />
