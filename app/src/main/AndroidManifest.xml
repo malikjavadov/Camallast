@@ -14,7 +14,7 @@
         <activity android:name=".NeurologistsRecyclerview_main"></activity>
         <activity android:name=".emergency_main" />
         <activity android:name=".Pharmacy_main" />
-        <activity android:name=".hospitals_main" />
+        <activity android:name=".HospitalActivity" />
         <activity android:name=".medicalcategories" />
 
         <meta-data

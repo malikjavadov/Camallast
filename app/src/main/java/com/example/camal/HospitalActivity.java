@@ -8,7 +8,7 @@ import android.annotation.SuppressLint;
 import android.app.ActionBar;
 import android.os.Bundle;
 
-public class hospitals_main extends AppCompatActivity {
+public class HospitalActivity extends AppCompatActivity {
 
     String h1[];
     RecyclerView RecyclerViewHospital;
